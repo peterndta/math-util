@@ -31,7 +31,7 @@ public class MathUtil {
         
 
         //sống sót đến đây, sure n = 2..20
-        long product = 1; //kết quả chung gian
+        long product = 10; //kết quả chung gian
         for (int i = 2; i <= n; i++) 
             product *= i;
         
