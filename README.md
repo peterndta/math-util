@@ -1,3 +1,4 @@
+[![Practice CI with GitHub Actions using Ant and JUnit | © 2022 by peterndta](https://github.com/peterndta/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/peterndta/math-util/actions/workflows/mathutil-ci.yml)
 # Welcome to Math Utility Repository
 
 ## This repo stores a Java library to support for the Math Calculation. You will find in this Repo the following stuff
