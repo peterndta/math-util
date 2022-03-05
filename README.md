@@ -9,7 +9,7 @@
 * .gitignore file to demo the feature of selection something to upload
 * README.md file to demo how to show a description of a repo by default
 
-##### © truong anh 2022
+##### © peterndta
 
 
 ### Screenshots:
